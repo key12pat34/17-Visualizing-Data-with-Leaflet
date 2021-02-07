@@ -1,6 +1,6 @@
 # Leaflet-Homework---hw-17
 
-test web output here https://key12pat34.github.io/javascript-challenge-hw14/project/UFO-level-1/V1.6/homepage.html
+test web output here https://key12pat34.github.io/Leaflet-Homework---hw-17/Project/v1.3/Leaflet-Step-1/Homepage.html 
 
 grading files located in :
 
