@@ -83,3 +83,10 @@ Your final product will be assessed on the following metrics:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+-------------
+
+* test web-output: https://key12pat34.github.io/Leaflet-Homework---hw-17/Project/v1.3/Leaflet-Step-1/Homepage.html
+
+# Submission Files:
+   * Project/v1.3/Leaflet-Step-1/
+
